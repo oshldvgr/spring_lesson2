@@ -6,7 +6,15 @@
 
     <groupId>shadrina.geekcourse.spring</groupId>
     <artifactId>lesson2</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>1_annotationConfig</module>
+        <module>2_configurationAnnotation</module>
+        <module>3_primary</module>
+        <module>4_qualifier</module>
+        <module>5_newAnnotation</module>
+    </modules>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
