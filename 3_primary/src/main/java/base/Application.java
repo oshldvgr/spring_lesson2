@@ -1,7 +1,6 @@
 package base;
 
-import base.decorations.Ball;
-import base.decorations.Bulb;
+
 import base.decorations.Decoration;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

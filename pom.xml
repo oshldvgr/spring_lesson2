@@ -12,6 +12,7 @@
         <module>1_annotationConfig</module>
         <module>2_configurationAnnotation</module>
         <module>3_primary</module>
+        <module>4_qualifier</module>
     </modules>
 
     <dependencies>
