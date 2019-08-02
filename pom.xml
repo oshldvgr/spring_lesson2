@@ -11,6 +11,7 @@
     <modules>
         <module>1_annotationConfig</module>
         <module>2_configurationAnnotation</module>
+        <module>3_primary</module>
     </modules>
 
     <dependencies>
