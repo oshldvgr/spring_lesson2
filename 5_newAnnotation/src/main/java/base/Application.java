@@ -15,6 +15,5 @@ public class Application {
 
         ChristmasTree tree = ctx.getBean(ChristmasTree.class);
         tree.run();
-
     }
 }
