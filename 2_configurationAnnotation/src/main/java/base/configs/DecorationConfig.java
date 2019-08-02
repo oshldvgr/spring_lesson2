@@ -21,6 +21,7 @@ public class DecorationConfig {
     }
 
     @Bean
+
     public Ball largeGreenBall() {
         Ball ball = new Ball();
         ball.setSize(Size.LARGE);
